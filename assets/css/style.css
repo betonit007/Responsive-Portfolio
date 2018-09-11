@@ -260,10 +260,14 @@ a:hover {
         text-align: center;
         background-color:#ffffff;
     }
-
+    /*Adaptive changes for body on Portfolio page*/
     #portbody {
         width: 600px;
         
+    }
+
+    #cbody {
+        height: 565px;
     }
 
 }
@@ -328,10 +332,11 @@ a:hover {
         text-align: center;
         background-color:#ffffff;
     }
-
+    /*Adaptive changes for body on Contact page*/
     #cbody {
-        height: 600px;
+        height: 565px;
     }
+    
 
 }
 /* media query when screen is below a width of 640px*/
@@ -373,9 +378,9 @@ a:hover {
      }
 
     img {
-        margin: 20px 0 0 55px;
         height: 242px;
         width: 222px;
+        margin-left: 40px;
      }
 
     #topbar {
@@ -393,7 +398,7 @@ a:hover {
         text-align: center;
         background-color:#ffffff;
     }
-
+    /*Adaptive changes to body for portfolio*/
     #portbody {
         width: 300px;
         height: 1500px;
