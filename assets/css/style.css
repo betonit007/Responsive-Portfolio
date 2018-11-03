@@ -184,12 +184,11 @@ img {
     height: 200px;
     width: 280px;
     float: left;
-    clear: both;
     margin: 20px 10px;
 }
 
 #portbody {
-    height: 800px;
+    height: 550px;
 }
 
 .hr:hover {
@@ -260,8 +259,8 @@ a:hover {
     }
 
     #portbody {
-        width: 600px;
-        height: 1100px;
+        width: 650px;
+        height: 850px;
         
     }
 
@@ -328,8 +327,8 @@ a:hover {
     }
 
     #portbody {
-        width: 600px;
-        height: 1000px;
+        width: 650px;
+        height: 800px;
         
     }
 
